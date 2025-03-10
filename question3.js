@@ -1,4 +1,3 @@
-// question2.js
 // Node.js and Express.js Server
 
 // This imports the express module
