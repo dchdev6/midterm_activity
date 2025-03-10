@@ -29,7 +29,7 @@ function deleteTask(taskId) {
     tasks = tasks.filter(t => t.id !== taskId);
 }
 
-// Example usage
+// Usage of the functions (Only an example)
 addTask("Task 1", "Description 1");
 console.log(getTasks());
 updateTask(1, "Updated Task 1", "Updated Description");

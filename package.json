@@ -16,5 +16,10 @@
     "url": "https://github.com/dchdev6/midterm_activity/issues"
   },
   "homepage": "https://github.com/dchdev6/midterm_activity#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  }
 }
