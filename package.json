@@ -1,0 +1,23 @@
+{
+  "name": "midterm_activity",
+  "version": "1.0.0",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchdev6/midterm_activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchdev6/midterm_activity/issues"
+  },
+  "homepage": "https://github.com/dchdev6/midterm_activity#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
