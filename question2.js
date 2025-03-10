@@ -1,4 +1,3 @@
-// question1.js
 // JavaScript Fundamentals, Reverse String
 
 function reverseString(str) {
